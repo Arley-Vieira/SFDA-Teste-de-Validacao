@@ -1,0 +1,9 @@
+#CT1
+
+Testes de Validação de Campos
+
+1.	Formulário Vazio:
+o	Irá verificar se o site permite o envio de um formulário vazio. O formulário deve impedir o envio e exibir mensagens de erro adequadas.
+
+2.	Campos Obrigatórios:
+o	Teste se todos os campos obrigatórios são corretamente validados. Tente enviar o formulário deixando um ou mais campos obrigatórios em branco e verifique se as mensagens de erro apropriadas são exibidas.
